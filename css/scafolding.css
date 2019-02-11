@@ -1,0 +1,70 @@
+/*-----------------------
+          HEADER
+  -----------------------*/        
+header {
+  position: initial;
+    text-align: left;
+    padding: 25px;
+    background-color:rosybrown;
+  }
+
+  header .homepage {
+    position: initial;
+    text-align: left;
+    padding: 25px;
+  }
+
+  header .topic {
+    position: relative;
+    
+    text-align: right; 
+  }
+
+  header a {
+    margin: 0 15px;
+    color: #fff;
+    text-decoration: none;
+    transition: all .4s;
+  }
+
+  header a:hover{
+    color: blue;
+  }
+
+
+  /*-----------------------
+          BODY
+  -----------------------*/        
+  body {
+    margin : 0;
+
+  }  
+/*-----------------------
+        Footer
+  -----------------------*/        
+footer {
+    background-color: royalblue;
+    color: white;
+    padding: 5px;
+    grid-gap: 1em;
+    text-align: center;
+    line-height: 2em;
+    margin-top: 60px;
+
+}
+footer {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(30px, 1fr));
+    justify-content: center;
+    align-items: center;
+}
+  .moi{
+    display: inline;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 30%;
+  }
+
+  footer a{
+    color: aliceblue
+}

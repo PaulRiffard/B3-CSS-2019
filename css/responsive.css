@@ -1,0 +1,16 @@
+.imagefixe {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    min-height: 80vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 80%;
+    background-image: url(../img/md/Un-capucin-a-poitrine-jaune-est-ne-au-zoo-de-la-Palmyre.jpg);
+    background-repeat: no-repeat;
+}
+
+
+img { 
+    align-content: center;
+    width: 100%;
+  }

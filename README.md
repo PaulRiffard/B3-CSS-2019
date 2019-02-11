@@ -1,2 +1,2 @@
-# B3-CSS-2019
-A Site web about apes
+# b3-css-2019
+this is a site about apes.
