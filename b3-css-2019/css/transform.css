@@ -1,0 +1,11 @@
+img {
+    margin: 10px;
+    max-width: 20%;
+    transition-duration: 0.5s;
+}
+
+img:hover {
+-webkit-filter: grayscale(80%);
+transform: rotate(360deg);
+
+}
